@@ -14,3 +14,5 @@ with open("output_links.txt", "w") as f:
 			outputLinks.append(link)
 
 print("Links removed: " + str(removedLinks))
+
+input()
